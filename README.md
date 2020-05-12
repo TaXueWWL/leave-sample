@@ -1,4 +1,9 @@
 # leave-sample
+
+原文地址：
+* [基于 DDD 的微服务设计和开发实战](https://www.infoq.cn/article/s_LFUlU6ZQODd030RbH9)
+* [当中台遇上 DDD，我们该如何设计微服务？](https://www.infoq.cn/article/7QgXyp4Jh3-5Pk6LydWw)
+
 一、说明
 
 本代码源于极客时间《DDD实战课》，DDD知识体系和代码详解可参考专栏。
